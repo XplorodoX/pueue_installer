@@ -1,5 +1,12 @@
 #!/bin/bash
 
+# Copyright (c) 2023 Hugo Görner GmbH
+# Licensed under the terms of the MIT License
+#
+# This script is developed by Florian Merlau and is being used by Hugo Görner GmbH.
+# It was developed using pueue.
+# Author: Florian Merlau
+
 # Function to download and install a package
 function download_and_install {
   # Define package name as the first argument passed to the function
