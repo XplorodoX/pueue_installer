@@ -1,6 +1,6 @@
 # pueue_installer
 
-This script is designed to automatically install Pueue on Linux devices. It is important to note that the script will only work on Linux and not on any other operating system.
+This script is designed to automatically install Pueue on Linux devices. It is important to note that the script will only work on Linux at this time and not on any other operating system. However, it is possible that support for additional operating systems will be added in the future.
 
 To use the script, follow these steps:
 
